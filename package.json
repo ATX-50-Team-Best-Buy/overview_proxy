@@ -30,5 +30,8 @@
     "http-proxy": "^1.18.1",
     "http-proxy-middleware": "^1.0.5",
     "node-env-file": "^0.1.8"
+  },
+  "devDependencies": {
+    "pm2": "^4.4.1"
   }
 }
